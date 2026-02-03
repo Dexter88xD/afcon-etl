@@ -1,0 +1,53 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Result
+1,1,21/12/2025 20:00,Stade Prince Moulay Abdellah,Morocco,Comoros,Group A,2 - 0
+2,1,22/12/2025 15:00,Stade Mohammed V,Mali,Zambia,Group A,1 - 1
+4,1,22/12/2025 18:00,Grand Stade de Marrakech,South Africa,Angola,Group B,2 - 1
+3,1,22/12/2025 21:00,Grand Stade d'Agadir,Egypt,Zimbabwe,Group B,2 - 1
+8,1,23/12/2025 13:30,Al Barid Stadium,DR Congo,Benin,Group D,1 - 0
+7,1,23/12/2025 16:00,Grand Stade de Tanger,Senegal,Botswana,Group D,3 - 0
+5,1,23/12/2025 18:30,Complexe sportif de Fes,Nigeria,Tanzania,Group C,2 - 1
+6,1,23/12/2025 21:00,Rabat Olympic Stadium,Tunisia,Uganda,Group C,3 - 1
+10,1,24/12/2025 13:30,Stade Mohammed V,Burkina Faso,Equatorial Guinea,Group E,2 - 1
+9,1,24/12/2025 16:00,Stade Moulay Hassan,Algeria,Sudan,Group E,3 - 0
+11,1,24/12/2025 18:30,Grand Stade de Marrakech,Côte d'Ivoire,Mozambique,Group F,1 - 0
+12,1,24/12/2025 21:00,Grand Stade d'Agadir,Cameroon,Gabon,Group F,1 - 0
+16,2,26/12/2025 13:30,Grand Stade de Marrakech,Angola,Zimbabwe,Group B,1 - 1
+15,2,26/12/2025 16:00,Grand Stade d'Agadir,Egypt,South Africa,Group B,1 - 0
+14,2,26/12/2025 18:30,Stade Mohammed V,Zambia,Comoros,Group A,0 - 0
+13,2,26/12/2025 21:00,Stade Prince Moulay Abdellah,Morocco,Mali,Group A,1 - 1
+20,2,27/12/2025 13:30,Rabat Olympic Stadium,Benin,Botswana,Group D,1 - 0
+19,2,27/12/2025 16:00,Grand Stade de Tanger,Senegal,DR Congo,Group D,1 - 1
+18,2,27/12/2025 18:30,Al Barid Stadium,Uganda,Tanzania,Group C,1 - 1
+17,2,27/12/2025 21:00,Complexe sportif de Fes,Nigeria,Tunisia,Group C,3 - 2
+24,2,28/12/2025 13:30,Grand Stade d'Agadir,Gabon,Mozambique,Group F,2 - 3
+22,2,28/12/2025 16:00,Stade Mohammed V,Equatorial Guinea,Sudan,Group E,0 - 1
+21,2,28/12/2025 18:30,Stade Moulay Hassan,Algeria,Burkina Faso,Group E,1 - 0
+23,2,28/12/2025 21:00,Grand Stade de Marrakech,Côte d'Ivoire,Cameroon,Group F,1 - 1
+27,3,29/12/2025 17:00,Grand Stade d'Agadir,Angola,Egypt,Group B,0 - 0
+28,3,29/12/2025 17:00,Grand Stade de Marrakech,Zimbabwe,South Africa,Group B,2 - 3
+25,3,29/12/2025 20:00,Stade Prince Moulay Abdellah,Zambia,Morocco,Group A,0 - 3
+26,3,29/12/2025 20:00,Stade Mohammed V,Comoros,Mali,Group A,0 - 0
+29,3,30/12/2025 17:00,Complexe sportif de Fes,Uganda,Nigeria,Group C,1 - 3
+30,3,30/12/2025 17:00,Rabat Olympic Stadium,Tanzania,Tunisia,Group C,1 - 1
+31,3,30/12/2025 20:00,Grand Stade de Tanger,Benin,Senegal,Group D,0 - 3
+32,3,30/12/2025 20:00,Al Barid Stadium,Botswana,DR Congo,Group D,0 - 3
+33,3,31/12/2025 17:00,Stade Moulay Hassan,Equatorial Guinea,Algeria,Group E,1 - 3
+34,3,31/12/2025 17:00,Stade Mohammed V,Sudan,Burkina Faso,Group E,0 - 2
+35,3,31/12/2025 20:00,Grand Stade de Marrakech,Gabon,Côte d'Ivoire,Group F,2 - 3
+36,3,31/12/2025 20:00,Grand Stade d'Agadir,Mozambique,Cameroon,Group F,1 - 2
+37,Round of 16,03/01/2026 17:00,Grand Stade de Tanger,Senegal,Sudan,,3 - 1
+38,Round of 16,03/01/2026 20:00,Stade Mohammed V,Mali,Tunisia,,1 - 1
+39,Round of 16,04/01/2026 17:00,Stade Prince Moulay Abdellah,Morocco,Tanzania,,1 - 0
+40,Round of 16,04/01/2026 20:00,Al Barid Stadium,South Africa,Cameroon,,1 - 2
+41,Round of 16,05/01/2026 17:00,Grand Stade d'Agadir,Egypt,Benin,,3 - 1
+42,Round of 16,05/01/2026 20:00,Complexe sportif de Fes,Nigeria,Mozambique,,4 - 0
+43,Round of 16,06/01/2026 17:00,Stade Moulay Hassan,Algeria,DR Congo,,1 - 0
+44,Round of 16,06/01/2026 20:00,Grand Stade de Marrakech,Côte d'Ivoire,Burkina Faso,,3 - 0
+45,Quarter Finals,09/01/2026 17:00,Grand Stade de Tanger,Mali,Senegal,,0 - 1
+46,Quarter Finals,09/01/2026 20:00,Stade Prince Moulay Abdellah,Cameroon,Morocco,,0 - 2
+47,Quarter Finals,10/01/2026 17:00,Grand Stade de Marrakech,Algeria,Nigeria,,0 - 2
+48,Quarter Finals,10/01/2026 20:00,Grand Stade d'Agadir,Egypt,Côte d'Ivoire,,3 - 2
+49,Semi Finals,14/01/2026 18:00,Grand Stade de Tanger,Senegal,Egypt,,1 - 0
+50,Semi Finals,14/01/2026 21:00,Stade Prince Moulay Abdellah,Nigeria,Morocco,,0 - 0
+51,Finals,17/01/2026 17:00,Stade Mohammed V,Egypt,Nigeria,,0 - 0
+52,Finals,18/01/2026 20:00,Stade Prince Moulay Abdellah,Senegal,Morocco,,1 - 0
