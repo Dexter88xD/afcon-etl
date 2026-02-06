@@ -1,10 +1,13 @@
 import pandas as pd
+from pathlib import Path
 
-csv_path = "data/afcon-2025-MoroccoStandardTime.csv"
+mod_path = Path(__file__).parent
+csv_path = mod_path / "../../data/afcon-2025-MoroccoStandardTime.csv"
+path = csv_path.resolve()
 
 def extract_data():
 
-	df = pd.read_csv(csv_path)
+	df = pd.read_csv(path)
 
 	head = df.head()
 	shape = df.shape

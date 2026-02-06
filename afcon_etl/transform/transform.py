@@ -13,9 +13,7 @@ def transform_data(df):
 	clean_df["time"] = clean_df["Date"].dt.time
 
 	clean_df = clean_df.drop(columns=["Date"])
-
 	clean_df = clean_df.fillna(value=None)
-
 	clean_df = clean_df.drop_duplicates()
 
 	print("Data transformed successfully!")
