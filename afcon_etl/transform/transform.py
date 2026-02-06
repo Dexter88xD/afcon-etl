@@ -18,4 +18,6 @@ def transform_data(df):
 
 	clean_df = clean_df.drop_duplicates()
 
+	print("Data transformed successfully!")
+
 	return clean_df

@@ -17,4 +17,6 @@ def extract_data():
 	print("==================Printing the columns:===============")
 	print("Columns = ", list(columns))
 
+	print("Data extracted successfully!")
+
 	return df
